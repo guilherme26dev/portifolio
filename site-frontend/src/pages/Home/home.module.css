@@ -1,0 +1,28 @@
+.apresentation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu{
+    align-items: start;
+    padding: 20px;
+}
+
+
+
+.text{
+    text-align: center;
+    width: 80vw;
+    font-size: 1.6rem;
+}
+
+.image{
+    width: 500px;
+    height: 300px;
+}
+
+/*Animation*/
+
+  
